@@ -1,0 +1,10 @@
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\bin\Debug\ukol1prvocislo.exe.config
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\bin\Debug\ukol1prvocislo.exe
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\bin\Debug\ukol1prvocislo.pdb
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\obj\Debug\ukol1prvocislo.csprojAssemblyReference.cache
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\obj\Debug\ukol1prvocislo.Form1.resources
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\obj\Debug\ukol1prvocislo.Properties.Resources.resources
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\obj\Debug\ukol1prvocislo.csproj.GenerateResource.cache
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\obj\Debug\ukol1prvocislo.csproj.CoreCompileInputs.cache
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\obj\Debug\ukol1prvocislo.exe
+C:\Users\krikavar.03\source\repos\ukol1prvocislo\ukol1prvocislo\obj\Debug\ukol1prvocislo.pdb
